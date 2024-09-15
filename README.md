@@ -1,0 +1,1 @@
+Built a machine learning model capable of predicting the likelihood of an individual having a specific disease based on their health attributes. The model's performance was evaluated using metrics such as accuracy, precision, recall, and F1-score.
